@@ -2,12 +2,18 @@
 	[
 		{
 			"speaker" : "homer",
-			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+			"dialog" : "I'm so tired I only got four hours of sleep last night SHEEEEEEEEEEEE.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "neptune",
+			"dialog" : "Ayo your sleep schedules pretty wacky my dude. Why can't you fix it?",
 			"newSpeaker" : "true"
 		},
 		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "THERES A STUPID PERSON SHOOTING AIR AT LEAVES AT 9AM EVERY FRIDAY MORNING.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
